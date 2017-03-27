@@ -22,14 +22,18 @@
 
         <ul>
           {% if site.show_downloads %}
-          <li class="download"><a class="buttons" href="https://www.datenightgenius.com/users/sign_up">Sign Up</a></li>
-          <li class="download"><a class="buttons" href="https://www.datenightgenius.com/users/sign_in">Log in</a></li>
+            <li class="download"><a class="buttons" href="https://www.datenightgenius.com/users/sign_up">Sign Up</a></li>
+            <li class="download"><a class="buttons" href="https://www.datenightgenius.com/users/sign_in">Log in</a></li>
           {% endif %}
         </ul>
       </header>
 
       <section>
-        {{ content }}
+        <a href="/">Back</a>
+        <div class="blog-container">
+          <h1> {{ page.title }} </h1>
+          {{ content }}
+        </div>
       </section>
 
       <footer>

@@ -3,6 +3,11 @@
 
 @import 'jekyll-theme-dinky';
 
+a{
+  color: #243D5B;
+  font-family: Dosis, serif;
+  text-decoration: underline;
+}
 
 h1, h2, h3, h4, h5, p {
   color: #243D5B;
@@ -10,12 +15,7 @@ h1, h2, h3, h4, h5, p {
 
 h1, h2, h3, h4, h5 {
   font-family: Dosis, serif;
-}
-
-a{
-  color: #243D5B;
-  font-family: Dosis, serif;
-  text-decoration: underline;
+  font-weight: 700;
 }
 
 header{
@@ -27,6 +27,6 @@ header{
     background: rgb(244, 144, 177);
   }
   li:hover{
-    background: #b144f4;
+    background: #FFAEC9;
   }
 }

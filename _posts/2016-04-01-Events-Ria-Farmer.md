@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "April Date Night Ideas for Real Life in Wichita"
-date:   2017-03-10 08:16:01 -0600
+date:   2017-04-01 08:16:01 -0600
 categories: blog
 ---
 With spring in full effect, it’s time to kiss those cabin fever blues goodbye and get back out and about in our thriving city. It’s true what they say… if you can’t find something to do in Wichita, you’re just not looking hard enough. Take advantage of these new and exciting events this month with your better half.

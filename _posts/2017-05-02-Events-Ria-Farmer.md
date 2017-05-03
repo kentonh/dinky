@@ -4,7 +4,7 @@ title:  "May Date Night Ideas for Real Life in Wichita"
 date:   2017-05-02 08:16:01 -0600
 categories: blog
 ---
-With spring in full effect, it’s time to kiss those cabin fever blues goodbye and get back out and about in our thriving city. It’s true what they say… if you can’t find something to do in Wichita, you’re just not looking hard enough. Take advantage of these new and exciting events this month with your better half.
+There are just a few days of the school year left, and vacation planning is ramping up. Still, here are a few places to carve out some time away with that special someone.
 
 [<img src="{{ site.url }}/assets/images/Ria_Web_Banner_A.jpg">](http://bit.ly/RiaDNGblog)
 
@@ -38,3 +38,5 @@ Hopping Gnome Brewery taps a new thirkin keg monthly and you can be there with p
 2nd Friday of every month; 6:00pm - 8:30pm
 
 The Kansas Humane Society hosts a kids night in so that parents can take advantage of cool date night ideas like these. It’s $20 per child, with a $10 sibling discount, and includes a movie, dinner, snacks, and animal encounters! Grades K through 5 are invited to hang out in their pajamas.
+
+<a href="http://bit.ly/RiaDNGblog"><img src="{{ site.url }}/assets/images/Ria_Web_Banner_B.jpg"></a>

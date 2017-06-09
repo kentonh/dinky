@@ -6,6 +6,8 @@ categories: blog
 ---
 Look out ICT, summer is here and there is no shortage of things to fill your calendar. This month we're thrilled to let you know details about Wichita’s new bike share, the expanded Q Line trolley, and a long list of outdoor live music that are almost entirely free. Forget the humidity and go have a good time this month!
 
+[<img src="{{ site.url }}/assets/images/Ria_Web_Banner_A.jpg">](http://bit.ly/RiaDNGblog)
+
 **<a href="http://wichitariverfest.com/" target="_blank" rel="nofollow">Wichita RiverFest</a>**
 
 June 2-10
@@ -75,3 +77,5 @@ June 24, 12p-7p
 $5 entry + food costs
 
 Wichita’s first taco fest is sure to add some spice to this date. Twenty local vendors will be dishing up $1 tacos, salsa, and margaritas at the newest hot spot in town, Union Station. Life-sized classic games and even a jalapeño eating contest round out this new event.
+
+<a href="http://bit.ly/RiaDNGblog"><img src="{{ site.url }}/assets/images/Ria_Web_Banner_B.jpg"></a>
